@@ -1,0 +1,47 @@
+* Overview
+
+(Mirror of https://codeberg.org/ArenTyr/new-portfolio)
+
+This repository consists of an overview of my commercial software development contributions, my old "portfolio" from circa 2019 (migrated from GitHub), technical code assessments, and other miscellaneous code/example work. Also acts as a bit of a launching pad to take a look at some of the things I've built in my spare time: these are primarily CLI based tools.
+
+My workflow is heavily command-line and plain-text based, due to the incredible potential that scripting/programmatic solutions offer for dealing with repetitious tasks and making data readily interchangeable amongst vast amounts of tooling, in a way which most GUI tools cannot accommodate and also tend to enforce time-consuming interactivity.
+
+* Commercial Development
+
+** [[https://codeberg.org/ArenTyr/new-portfolio/src/branch/master/way/][Worth Avenue Yachts (2023)]]
+** [[https://codeberg.org/ArenTyr/new-portfolio/src/branch/master/quantum/][Quantum Automotive iQ (2020 - 2022)]]
+** [[https://codeberg.org/ArenTyr/new-portfolio/src/branch/master/clouddee/][Clouddee Consulting (2019 - 2020)]]
+
+* Old Portfolio (2018 - 2019) & Miscellaneous Older Code
+
+** [[https://codeberg.org/ArenTyr/old-portfolio][Portfolio (2018/2019) & Miscellaneous Code]]
+
+* Technical Assessments
+
+** [[https://github.com/ArenT1981/bsa_constraint_validation_assign1][NHS: BSA Constraint Validator]]
+** [[https://codeberg.org/ArenTyr/new-portfolio/src/branch/master/itg][Team ITG: CSV Data Filterer]]
+** [[https://github.com/ArenT1981/advst-word-count][Adaptavist: Word Count]]
+
+* More Recent Projects
+
+** [[https://codeberg.org/ArenTyr/wibble][Wibble - terminal based wiki/knowledge management system (Perl)]]
+** [[https://codeberg.org/ArenTyr/wibble-cpp][Wibble++ - Full rewrite/expansion of Wibble (C++)]]
+** [[https://codeberg.org/ArenTyr/wibble-react-gui][Wibble Viewer - GUI viewer/frontend (React)]]
+
+* Recommendations (see [[https://www.linkedin.com/in/aren-tyr/][LinkedIn]])
+
+** [[https://www.linkedin.com/in/tammydarvish][Tamara Darvish]]
+
+*Chief Executive Officer | Chief Operating Officer*
+
+/September 15, 2022, Tamara (Tammy) was Aren’s client/
+
+"I had the opportunity to work with Aren while leading operations on an interim project at a startup for several months. While he did not report to me directly, it was apparent to me after our 1st conversation that he not only had full command over the technical side of our business model, but more importantly, a holistic understanding on the model from the actual business requirements, process management & customer experience side. Too often, a team tasked with building out the technical side of a business has little or no understanding of how the business really operates; hence, much software doesn't really address the efficiency and productivity needs of the business. Aren took the initiative to meet will all stakeholders to understand their expectations of work flow & requirements resulting in work product that was accurately relevant & necessary to the decision making from the leaders of the organization. Aren also took the lead on recruiting & engaging appropriate technical team members that he needed to complete the project. The bottom line is that Aren should not be seen as a 'software engineer', rather as a deep thinking leader in tech, UX, CX, & stakeholder engagement. Lastly, Aren is ALWAYS available when needed. I highly recommend & look forward to working with him again on future projects."
+
+** [[https://www.linkedin.com/in/kellydempski][Kelly Dempski]]
+
+*VP - Digital Business Solutions*
+
+/September 8, 2022, Kelly managed Aren directly/
+
+"I had the opportunity to work with Aren throughout most of my time as Quantum's CTO. Being a very small and nimble start up, Aren had to work on a very wide array of technologies, ranging from Salesforce (Apex, Lightning, Process Builder, and more), to AWS (API Gateway, EC2, S3, serverless, and much more), to weaving together a wide variety of data services and pricing algorithms. He delivered an enormous amount of work at very high quality, while being a true partner in helping to set the strategic direction for the technology platform. When I left Quantum, I was still a shareholder, and was 100% confident that he could continue to maintain and advance the platform. Also, Aren is an excellent remote communicator, coordinating his work between the US, the UK, and India. From collaborative conversations to technical documentation, Aren communicates very well. Finally, in addition to development skills, Aren is able to leverage his position to both support and inform the business strategy. I was very pleasantly surprised, and very grateful, that my 'developer' turned out to be someone whom I could partner with on all aspects of technology and ultimately entrust with the work going forward."
